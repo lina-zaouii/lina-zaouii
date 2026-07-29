@@ -1,57 +1,129 @@
-# Hi there, I'm Lina 👋
+<h1 align="center">
+  Hi 👋, I'm Lina Zaoui
+</h1>
 
-I'm an Engineering student at **ENIT** with a passion for **Artificial Intelligence, Machine Learning, Deep Learning, and Mathematical Modeling**. I enjoy transforming mathematical concepts into intelligent systems that solve real-world problems.
+<h3 align="center">
+Engineering Student • Artificial Intelligence • Machine Learning • Mathematical Modeling
+</h3>
 
-My goal is to become an AI engineer capable of building robust, scalable, and impactful machine learning solutions—from data collection and model development to deployment.
+<p align="center">
+Building intelligent systems with mathematics, data, and software engineering.
+</p>
 
-## 🚀 What I'm currently working on
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-* 🤖 Machine Learning & Deep Learning projects
-* 📊 Data Science and predictive modeling
-* 🧠 Computer Vision applications
-* 🌍 AI solutions for environmental and engineering challenges
-* 📚 Continuously improving my mathematics, software engineering, and MLOps skills
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🛠️ Tech Stack
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-**Languages**
+</p>
 
-* Python
-* SQL
-* C
+---
 
-**Machine Learning & Data Science**
+# 👩‍💻 About Me
 
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow
-* PyTorch
+🎓 Engineering Student passionate about Artificial Intelligence.
 
-**Tools**
+🧠 Exploring Machine Learning, Deep Learning, Computer Vision, and Mathematical Modeling.
 
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-* Linux
+📊 Interested in solving real-world engineering problems using data-driven approaches.
 
-## 🌱 Currently Learning
+🚀 Building end-to-end AI projects while continuously improving my software engineering skills.
 
-* Advanced Deep Learning
-* MLOps
-* Large Language Models (LLMs)
-* Model Deployment
-* Cloud for Machine Learning
+📚 Currently learning Deep Learning, MLOps, and modern AI systems.
 
-## 📌 My Goals
+🌍 Always open to research collaborations and innovative AI projects.
 
-* Build high-quality open-source AI projects.
-* Contribute to impactful research and engineering projects.
-* Continuously learn and apply state-of-the-art AI techniques.
-* Create projects that bridge mathematics, engineering, and artificial intelligence.
+---
 
-## 📫 Let's Connect
+# 🎯 Current Focus
 
-I'm always interested in learning, collaborating, and discussing ideas related to AI, Machine Learning, and Data Science.
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Science
+- 📈 Mathematical Modeling
+- ⚙️ MLOps
+- ☁️ Cloud for AI
+- 📖 Large Language Models
 
-> *"Learning by building, improving through consistency."*
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,tensorflow,pytorch,opencv,sklearn,numpy,pandas,mysql,docker"/>
+
+</p>
+
+---
+
+# 📈 Skill Level
+
+```text
+Python                  ████████████████████ 95%
+
+Machine Learning        ██████████████████░░ 90%
+
+Mathematical Modeling   ██████████████████░░ 90%
+
+Deep Learning           ████████████████░░░░ 80%
+
+Data Science            ████████████████░░░░ 80%
+
+Computer Vision         ██████████████░░░░░░ 70%
+
+MLOps                   ██████████░░░░░░░░░░ 50%
+
+Git & GitHub            ████████████████░░░░ 80%
+
+Linux                   ███████████████░░░░░ 75%
+```
+
+---
+
+# 🧠 Areas of Interest
+
+| Artificial Intelligence | Engineering | Mathematics |
+|--------------------------|-------------|-------------|
+| 🤖 Machine Learning | ⚙️ Mathematical Modeling | 📊 Statistics |
+| 🧠 Deep Learning | 🌍 Environmental AI | 📈 Optimization |
+| 👁️ Computer Vision | 📡 Remote Sensing | 📉 Probability |
+| 📚 Large Language Models | 📊 Data Science | 📐 Linear Algebra |
+| ⚙️ MLOps | ☁️ Cloud Computing | 🔢 Numerical Methods |
+
+---
+
+
+# 📚 Currently Learning
+
+- Deep Learning Specialization
+- Advanced Neural Networks
+- Transformers
+- Computer Vision
+- MLOps
+- Docker
+- Model Deployment
+- Cloud Computing
+
+---
+
+# 💡 Philosophy
+
+> **"Great AI systems are built on strong mathematical foundations, disciplined engineering, and continuous learning."**
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+Let's build something amazing together!
+
+</h3>
