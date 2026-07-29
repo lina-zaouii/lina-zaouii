@@ -11,15 +11,14 @@ Building intelligent systems with mathematics, data, and software engineering.
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/lina-zaoui-43608b406/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/lina-zaouii">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -114,16 +113,5 @@ Linux                   ███████████████░░░�
 
 ---
 
-# 💡 Philosophy
-
-> **"Great AI systems are built on strong mathematical foundations, disciplined engineering, and continuous learning."**
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-Let's build something amazing together!
 
 </h3>
